@@ -41,7 +41,7 @@
 
 ### 📫 **Get in Touch**
 📧 Email: **adityakumarsinghczm1009@gmail.com**  
-🌐 Portfolio: **coming soon**  
+🌐 Portfolio: **[portfolio/me](https://adityakumar1009.github.io/portfolio/)**  
 💼 LinkedIn: **[your-linkedin](https://linkedin.com/in/your-linkedin)**  
 🐦 Twitter: **[@your-twitter](https://twitter.com/your-twitter)**  
 
