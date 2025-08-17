@@ -1,15 +1,15 @@
 <h1 align="center">Hi there, I'm Aditya 👋</h1>
-<h3 align="center">Programmer | Aspiring ML Engineer and iOS Developer</h3>
+<h3 align="center">Programmer | Aspiring ML Engineer</h3>
 
 ---
 
 ### 🚀 **About Me**
 - 🎓 **B.Tech in Computer Science Engineering**, specializing in **Deep Learning & Computer Vision**  
 - 💻 Passionate about **Computer Vision, Machine Learning, and Cloud Computing**  
-- 📱 Aspiring **ML Engineer** and **iOS Developer**, currently learning **Computer Vision** and working with **SwiftUI**  
-- 🔬 Working on **ML-powered Recommendation Systems & Vision Models**  
+- 📱 Aspiring **ML Engineer** and **Data Scientist**, currently learning **Computer Vision** and working with **LLMs**  
+- 🔬 Working on **ML-powered Automations, Predictions, Recommendation Systems & Vision Language Models**  
 - 🌐 Experienced in **AWS, Cloud Computing, and Web Development**  
-- 🎯 Seeking a **technical internship for Summer 2025**  
+- 🎯 Seeking a **technical internship in 2026**  
 
 ---
 
@@ -33,9 +33,8 @@
 
 ### 📫 **Get in Touch**
 📧 Email: **adityakumarsinghczm1009@gmail.com**  
-🌐 Portfolio: **[portfolio/me](https://adityakumar1009.github.io/portfolio/)**  
-💼 LinkedIn: **[your-linkedin](https://linkedin.com/in/your-linkedin)**  
-🐦 Twitter: **[@your-twitter](https://twitter.com/your-twitter)**  
+🌐 Portfolio: **[portfolio/me](https://adityaksingh.me)**  
+💼 LinkedIn: **[your-linkedin](https://www.linkedin.com/in/crazeformarvel/)**  
 
 ---
 
