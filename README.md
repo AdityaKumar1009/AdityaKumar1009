@@ -31,14 +31,6 @@
 
 ---
 
-### 📌 **Projects**
-💡 **[Movie Recommendation System](https://github.com/your-username/movie-recommendation)** – ML-based hybrid recommender using **cosine similarity, correlation coefficient, and KNN**  
-🖼️ **[Computer Vision Model](https://github.com/your-username/vision-project)** – Pedestrian and Vehicles detection model with **YOLO & OpenCV** for Drone surveillance system
-📱 **[iOS App](https://github.com/your-username/ios-app)** – SwiftUI-based app integrating **ML & real-time APIs**  
-🔢 **[Data Analysis on Netflix](https://github.com/your-username/netflix-analysis)** – Data-driven insights using **Pandas, NumPy, and Matplotlib**  
-
----
-
 ### 📫 **Get in Touch**
 📧 Email: **adityakumarsinghczm1009@gmail.com**  
 🌐 Portfolio: **[portfolio/me](https://adityakumar1009.github.io/portfolio/)**  
