@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Aditya 👋</h1>
-<h3 align="center">Programmer | Aspiring ML Engineer</h3>
+<h1 align="center">Hi there, I'm Aditya </h1>
+<h3 align="center">Programmer and an Aspiring ML Engineer</h3>
 
 ---
 
@@ -33,8 +33,8 @@
 
 ### 📫 **Get in Touch**
 📧 Email: **adityakumarsinghczm1009@gmail.com**  
-🌐 Portfolio: **[portfolio/me](https://adityaksingh.me)**  
-💼 LinkedIn: **[your-linkedin](https://www.linkedin.com/in/crazeformarvel/)**  
+🌐 Portfolio: **[/me](https://adityaksingh.me)**  
+💼 LinkedIn: **[/linkedin](https://www.linkedin.com/in/crazeformarvel/)**  
 
 ---
 
