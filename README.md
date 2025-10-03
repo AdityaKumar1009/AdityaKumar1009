@@ -60,7 +60,7 @@ My work spans **ASR (Automatic Speech Recognition), TTS (Text-to-Speech), and sp
 ---
 
 ## 📫 Connect With Me  
-- 🌐 Portfolio: [adityaksingh.me](https://adityaksingh.me)  
+- 🌐 [adityaksingh.me](https://adityaksingh.me)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/crazeformarvel/)  
 - 🐙 [Instagram](https://www.instagram.com/crazeformarvel/)  
 
