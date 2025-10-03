@@ -40,7 +40,7 @@
 
 ⭐ **If you like my work, consider giving a star to my repositories!**  
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaKumar1009&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKumar1009&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=AdityaKumar1009&color=blue)
+
 
 
