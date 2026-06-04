@@ -4,7 +4,7 @@
 
 I’m passionate about building **AI systems that bridge research with real-world applications**. My work spans **machine learning, computer vision, speech processing, and full-stack engineering**, with a focus on **robust, interpretable, and scalable solutions**.  
 
-🌐 Explore more about me: [adityaksingh.me](https://adityaksingh.me)  
+🌐 Explore more about me: [adityaintoai.me](https://adityaintoai.me)  
 
 ---
 
@@ -60,7 +60,7 @@ My work spans **ASR (Automatic Speech Recognition), TTS (Text-to-Speech), and sp
 ---
 
 ## 📫 Connect With Me  
-- 🌐 [adityaksingh.me](https://adityaksingh.me)  
+- 🌐 [adityaintoai.me](https://adityaintoai.me)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/crazeformarvel/)  
 - 🐙 [Instagram](https://www.instagram.com/crazeformarvel/)  
 
